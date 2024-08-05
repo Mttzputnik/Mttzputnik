@@ -1,6 +1,5 @@
 
 <h1 align="center">Hola 👋, me llamo Mateo Andres F. Calderon</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mttzputnik&label=Profile%20views&color=0e75b6&style=flat-square" alt="mttzputnik" /> </p>
 
 # 💫 Sobre mi:
 👨‍💻 Desarrollador Full Stack autodidacta y aspirante a Ingeniero en Ciberseguridad<br>🎓 Estudiando Ingeniería de Sistemas y Computación en la Universidad de Caldas<br>📖 Con gran interés en IA, Machine Learning y Desarrollo de Videojuegos<br>🔍 Actualmente profundizando en IA y Desarrollo en Python<br>💻 Con buen conocimiento en Java, Python, TypeScript, JavaScript y SQL<br>📈 En busca de oportunidades para una pasantía o un nuevo rol laboral
