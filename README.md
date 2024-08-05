@@ -5,7 +5,7 @@
 👨‍💻 Desarrollador Full Stack autodidacta y aspirante a Ingeniero en Ciberseguridad<br>🎓 Estudiando Ingeniería de Sistemas y Computación en la Universidad de Caldas<br>📖 Con gran interés en IA, Machine Learning y Desarrollo de Videojuegos<br>🔍 Actualmente profundizando en IA y Desarrollo en Python<br>💻 Con buen conocimiento en Java, Python, TypeScript, JavaScript y SQL<br>📈 En busca de oportunidades para una pasantía o un nuevo rol laboral
 
 
-## 🌐 Contacto:
+# 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-andrés-fracica-calderón-8514422a6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Mtt_zputnik) 
 
 # 💻 Conocimientos tecnicos:
@@ -15,10 +15,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mttzputnik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mttzputnik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Frase Random
+# ✍️ Frase Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Repositorios con mas contribuciones
+# 🔝 Repositorios con mas contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=Mttzputnik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
